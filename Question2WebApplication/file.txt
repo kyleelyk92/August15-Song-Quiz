@@ -1,0 +1,6 @@
+2019-08-15 14:26:59.1269|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs
+2019-08-15 14:28:59.6416|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs
+2019-08-15 14:29:44.5893|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs
+2019-08-15 14:31:37.2018|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs
+2019-08-15 14:32:51.0456|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs
+2019-08-15 14:33:51.8067|INFO|Question2WebApplication.Controllers.UsersController|Giving user 1 their songs

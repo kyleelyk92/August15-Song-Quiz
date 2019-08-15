@@ -1,0 +1,15 @@
+﻿@model Question2WebApplication.Controllers.PurchaseResults
+@{
+    ViewBag.Title = "NumberOfPurchases";
+}
+
+<h2>NumberOfPurchases</h2>
+
+
+@if(Model != null)
+{
+<span>Number of purchases</span>
+    <p>@Model.NumberOfPurchases</p>
+
+    <span>SongName: @Model.SongName</span>
+}
